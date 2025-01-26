@@ -1,2 +1,1 @@
-
-docker pull canal/canal-server:v1.1.8
+canal/canal-server:v1.1.8
