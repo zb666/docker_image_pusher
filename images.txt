@@ -1,1 +1,2 @@
-mysql:5.7
+zb
+docker pull canal/canal-server:v1.1.8
