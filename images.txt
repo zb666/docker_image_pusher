@@ -1,1 +1,1 @@
-canal/canal-server:v1.1.8
+apache/rocketmq:5.1.4
